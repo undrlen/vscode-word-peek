@@ -65,7 +65,7 @@ const defaultSettings: ExampleSettings = {
   peekFromLanguages: [
     'html'
   ],
-  trace: { server: 'verbose' }
+  trace: { server: 'off' }
 };
 let globalSettings: ExampleSettings = defaultSettings;
 
