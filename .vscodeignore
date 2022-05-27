@@ -9,6 +9,11 @@ vsc-extension-quickstart.md
 **/*.map
 **/*.ts
 
+scripts/**
+**/test/**
+**/testFixture/**
+git.ini
+
 .vscode/**
 **/*.ts
 **/*.map

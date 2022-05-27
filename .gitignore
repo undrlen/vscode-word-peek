@@ -3,3 +3,4 @@ out
 .vscode-test
 tsconfig.tsbuildinfo
 *.vsix
+git.ini
