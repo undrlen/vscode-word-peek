@@ -4,7 +4,12 @@
   "description": "Allows you to view words from html files in css files.",
   "version": "0.0.1",
   "publisher": "abyba",
-  "homepage": "https://github.com/undrlen/vscode-word-peek",
+  "homepage": "https://github.com/undrlen/vscode-word-peek/blob/master/README.md",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/undrlen/vscode-word-peek/issues",
+    "email": "undrle@yandex.ru"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/undrlen/vscode-word-peek.git"
